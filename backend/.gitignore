@@ -1,3 +1,7 @@
 node_modules
 .env
+<<<<<<< HEAD
 built
+=======
+built
+>>>>>>> b357a145fa2cbb2917d1caf1998233b3372a680e
